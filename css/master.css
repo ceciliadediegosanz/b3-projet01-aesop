@@ -1,0 +1,98 @@
+body{
+  margin: 0;
+}
+header{
+  color: #808B96;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fabula1{
+  padding: 30px 20px 200px 20px;
+  background: white;
+}
+figure{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+img{
+  max-height: 200px;
+}
+.title1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 20px 30px;
+}
+
+.fabula1texto{
+  max-width: 460px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.fabula2{
+  background:url('images/texture.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+
+}
+.title2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.fabula2texto{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+  margin-left: 95px;
+  margin-right: 95px;
+  margin-bottom: 100px;
+}
+.t1{
+  background-color: rgba(0,0,0,0.85);
+  width: 300px;
+}
+.t2{
+  background-color: rgba(0,0,0,0.85);
+  width: 300px;
+}
+.t3{
+  background-color: rgba(0,0,0,0.85);
+  width: 300px;
+}
+.fabula3{
+  background: #000 url('images/arq.jpg') no-repeat top center;
+  opacity: 80%;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title3{
+  color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 70px;
+}
+.fabula3texto{
+  color: white;
+  max-width: 400px;
+  padding: 50px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+}

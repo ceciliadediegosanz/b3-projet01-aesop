@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Poppins|Roboto|Unica+One|Vast+Shadow|Vollkorn|Yeseva+One&display=swap');
+
+h1{
+  font-family: 'Vast Shadow', cursive;
+  font-size: 3em;
+  font-weight: 600;
+}
+
+header h1{
+  margin-top: 0;
+  padding: 1em;
+}
+.fabula1texto{
+  line-height: 0,5;
+  font-family: 'Vollkorn', serif;
+  color: #333;
+  font-size: 1em;
+  text-align: justify;
+}
+.title1{
+font-family: 'Unica One', sans-serif;
+color: rgba(238, 17, 34,1);
+}
+.title2{
+  font-family: 'Yeseva One', cursive;
+  font-size: 5em;
+  font-weight: 600;
+  color: #B61907;
+}
+.fabula2texto{
+  font-family: 'Lora', serif;
+}
+
+.title3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 5em;
+  font-weight: 600;
+}
+.fabula3texto{
+  font-family: 'Lora', serif;
+}
